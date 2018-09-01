@@ -6,6 +6,9 @@ A student group project for the Epicodus JavaScript course, August 30th 2018. We
 The concept behind our app was to determine a users mood and play a Spotify Playlist based on that mood and their favorite genre. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
+## Deployed
+Visit https://moodify-eb330.firebaseapp.com/ to see the app in action. CORS is necessary for the API call to function, see the Chrome extension [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
