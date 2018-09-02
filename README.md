@@ -6,8 +6,12 @@ A student group project for the Epicodus JavaScript course, August 30th 2018. We
 The concept behind our app was to determine a users mood and play a Spotify Playlist based on that mood and their favorite genre. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
-## Deployed
+## Deployed with Firebase
 Visit https://moodify-eb330.firebaseapp.com/ to see the app in action. CORS is necessary for the API call to function, see the Chrome extension [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
+
+## App Screenshot
+![moodify](https://user-images.githubusercontent.com/11031915/44951069-c274a680-ae0e-11e8-93f1-5aff79790a70.png)
+
 
 ## Development server
 
@@ -20,14 +24,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
