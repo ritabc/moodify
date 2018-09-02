@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Visit https://moodify-eb330.firebaseapp.com/ to see the app in action. CORS is necessary for the API call to function, see the Chrome extension [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
 
 ## App Screenshot
-![moodify](https://user-images.githubusercontent.com/11031915/44951069-c274a680-ae0e-11e8-93f1-5aff79790a70.png)
+![moodify](https://user-images.githubusercontent.com/11031915/44951069-c274a680-ae0e-11e8-93f1-5aff79790a70.png | width=100)
 
 
 ## Development server
